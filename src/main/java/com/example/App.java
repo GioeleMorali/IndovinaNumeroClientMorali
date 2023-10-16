@@ -5,8 +5,6 @@ import java.io.DataOutputStream;
 import java.io.InputStreamReader;
 import java.net.Socket;
 
-import javax.lang.model.util.ElementScanner6;
-
 /**
  * Hello world!
  *
